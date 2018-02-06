@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Pages for Dr. Avon Huxor
 
-You can use the [editor on GitHub](https://github.com/huxor/huxor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page is an experimental site, so please excuse its current minimal state and any broekn links.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CV
+My CV will be found on this link (when active)
 
 ```markdown
 Syntax highlighted code block
