@@ -129,3 +129,19 @@ Two year programme. Study into the philosophy, psychology and practice of design
 BSc Architecture, Planning, Building & Environmental Sciences <br>
 Oct '77 - Jul '81 <br>
 
+## Skills
+
+Technical specialities <br>
+LaTeX, UNIX, SQL, Git; programming in IDL, R+ knitr, and Python languages, NLP (nltk, gensim); some experience of AWS, MATLAB, OpenCV
+
+---
+
+Team Skills: <br>
+Chairing meetings, organising conference sessions, journal editing and review.
+\vspace{2mm}
+
+---
+
+Natural languages: <br>
+English (mother tongue), German (limited working proficiency)
+
