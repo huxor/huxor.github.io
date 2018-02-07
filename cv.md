@@ -28,7 +28,7 @@ Associate (part-time) Lecturer for the OU course TM351 (data analysis). This inv
 
 Research Scientist & Scientific Manager <br>
 May '11 -- Sep '15 <br>
-Research into the stellar halo of the Milky Way, using long-period variable stars as probes. This mainly invovled data analysis (R and Python) of tiem-series data for variable stars. I was also  the Scientific Manager for two years of the SFB 881. This is a large inter-institution programme across the city of Heidelberg bringing together the University, the Max-Planck Institute and the Heidelberg Institute for Theoretical Studies.  This role involved: organising and chairing bi-weekly seminars, assisting in assembling reports for the funding agency, and assisting in writing the application for second round funding. Supervised a PhD student. Much of this research involved substantial database work and analysis.
+Research into the stellar halo of the Milky Way, using long-period variable stars as probes. This mainly invovled data analysis (R and Python) of time-series data for variable stars. I was also  the Scientific Manager for two years of the SFB 881. This is a large inter-institution programme across the city of Heidelberg bringing together the University, the Max-Planck Institute and the Heidelberg Institute for Theoretical Studies.  This role involved: organising and chairing bi-weekly seminars, assisting in assembling reports for the funding agency, and assisting in writing the application for second round funding. Supervised a PhD student. Much of this research involved substantial database work and analysis.
 
 ---
 
@@ -77,7 +77,7 @@ Short-term contract to work on the multinational "Intelligent Manufacturing Syst
 
 Researcher <br>
 Sept '85 - Dec '87 <br>
-Research into explanation facilities for knowledge-based systems. As well as a theoretical investigation, I also implemented an exemplar in the domain of macro-economic reasoning (Huxor 1988). This involved extensive integration with two professional economists.
+Research into explanation facilities for knowledge-based systems. As well as a theoretical investigation, I also implemented an exemplar in the domain of macro-economic reasoning (Huxor 1988). This involved extensive interaction with two professional economists.
 
 ---
 
