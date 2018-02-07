@@ -138,7 +138,6 @@ LaTeX, UNIX, SQL, Git; programming in IDL, R+ knitr, and Python languages, NLP (
 
 Team Skills: <br>
 Chairing meetings, organising conference sessions, journal editing and review.
-\vspace{2mm}
 
 ---
 
