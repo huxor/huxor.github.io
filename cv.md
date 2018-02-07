@@ -1,4 +1,4 @@
-# CV
+# Curriculum Vitae | Dr Avon Huxor
 
 ## Employment
 *Cardiff Metropolitan  University*, Cardiff, UK
@@ -80,3 +80,52 @@ Sept '85 - Dec '87 <br>
 Research into explanation facilities for knowledge-based systems. As well as a theoretical investigation, I also implemented an exemplar in the domain of macro-economic reasoning (Huxor 1988). This involved extensive integration with two professional economists.
 
 ---
+
+## Education
+
+*University of Bristol* Bristol, UK
+
+MSc in Data Mining, Machine Learning & High Performance Computing <br>
+Oct '15 - Sept'17 <br>
+Including modules on: machine learning, autonomous systems, computational neuroscience, logic programming, computer vision, statistical learning, uncertainty modelling, computational genomics, applied data science, web technologies.
+
+---
+
+*University of Hertfordshire* Hatfield, UK
+
+PhD Astrophysics <br>
+Sep '02 - Apr '06 <br>
+Investigation into the globular cluster population of the Andromeda Galaxy.
+
+---
+
+*University of Hertfordshire* Hatfield, UK
+
+MSc Astrophysics <br>
+Oct '00 - Jun '02 <br>
+Two year, part-time course. Awarded with distinction.
+
+
+---
+
+*Middlesex University* London, UK
+
+PhD Artificial Intelligence <br>
+Jan '90 - Apr '94 <br>
+Self-directed research into the notion that knowledge-based AI is an extension to ``writing". Prototype system implemented in SmallTalk language.
+
+---
+
+*Royal College of Art* London, UK
+
+MA(RCA) Design Research <br>
+Oct '83 - Jul '85 <br>
+Two year programme. Study into the philosophy, psychology and practice of design. Final thesis focussed on the use of AI techniques that could support computer-aided design.
+
+---
+
+*University College London* London, UK
+
+BSc Architecture, Planning, Building & Environmental Sciences <br>
+Oct '77 - Jul '81 <br>
+
