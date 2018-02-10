@@ -28,7 +28,7 @@ Associate (part-time) Lecturer for the OU course TM351 (data analysis). This inv
 
 Research Scientist & Scientific Manager <br>
 May '11 - Sep '15 <br>
-Research into the stellar halo of the Milky Way, using long-period variable stars as probes. This mainly invovled data analysis (R and Python) of time-series data for variable stars. I was also  the Scientific Manager for two years of the SFB 881. This is a large inter-institution programme across the city of Heidelberg bringing together the University, the Max-Planck Institute and the Heidelberg Institute for Theoretical Studies.  This role involved: organising and chairing bi-weekly seminars, assisting in assembling reports for the funding agency, and assisting in writing the application for second round funding. Supervised a PhD student. Much of this research involved substantial database work and analysis.
+Research into the stellar halo of the Milky Way, using long-period variable stars as probes. This mainly involved data analysis (R and Python) of time-series data for variable stars. I was also  the Scientific Manager for two years of the SFB 881. This is a large inter-institution programme across the city of Heidelberg bringing together the University, the Max-Planck Institute and the Heidelberg Institute for Theoretical Studies.  This role involved: organising and chairing bi-weekly seminars, assisting in assembling reports for the funding agency, and assisting in writing the application for second round funding. Supervised a PhD student. Much of this research involved substantial database work and analysis.
 
 ---
 
