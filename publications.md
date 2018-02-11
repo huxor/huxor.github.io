@@ -1,4 +1,4 @@
-## Welcome to Pages for Dr. Avon Huxor
+## Publications
 
 This page is an experimental site, so please excuse its current minimal state and any broekn links.
 
