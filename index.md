@@ -2,8 +2,11 @@
 
 This page is an experimental site, so please excuse its current minimal state and any broekn links.
 
-### CV
-My CV will be found on this [link]  https://github.com/huxor/huxor.github.io/edit/master/cv.md
+### Curriculum Vitae
+My CV will be found [here](https://github.com/huxor/huxor.github.io/edit/master/cv.md)
+
+### Publications
+A list of piblications, with links where possible are [here]
 
 ```markdown
 Syntax highlighted code block
