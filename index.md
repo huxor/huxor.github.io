@@ -1,12 +1,10 @@
-## Publications
-
-This page is an experimental site, so please excuse its current minimal state and any broekn links.
+## Dr. Avon Huxor
 
 ### Curriculum Vitae
 My CV will be found [here](https://github.com/huxor/huxor.github.io/edit/master/cv.md)
 
 ### Publications
-A list of piblications, with links where possible are [here]
+A list of piblications, with links where possible are [here](https://github.com/huxor/huxor.github.io/edit/master/publications.md)
 
 ```markdown
 Syntax highlighted code block
