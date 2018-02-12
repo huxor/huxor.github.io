@@ -6,3 +6,5 @@
 And [here](https://cardiffmet.academia.edu/AvonHuxor), via Academia.edu, are links to some of my *non*-astrophysics papers.
 
 A set of links to both sets of papers can also be found at [Researchgate](https://www.researchgate.net/profile/Avon_Huxor/contributions)
+
+Finally, there is my [ORCID page](https://orcid.org/0000-0001-5467-5730)
