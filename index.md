@@ -6,5 +6,5 @@ This GitHub page is a simple home that has links to:
 My CV will be found [here](https://github.com/huxor/huxor.github.io/edit/master/cv.md)
 
 ### Publications
-A list of piblications, with links where possible are [here](https://github.com/huxor/huxor.github.io/edit/master/publications.md)
+Pointers to lists of my publications, with downloadable links where possible are [here](https://github.com/huxor/huxor.github.io/edit/master/publications.md)
 
