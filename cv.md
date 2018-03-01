@@ -112,6 +112,7 @@ Two year, part-time course. Awarded with distinction.
 University certificate in Ancient Egyptian Hieroglyphics <br>
 Sept. '96 - March '97 <br>
 Evening course
+
 ---
 
 *Middlesex University* London, UK
