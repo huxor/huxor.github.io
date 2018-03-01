@@ -107,9 +107,9 @@ Two year, part-time course. Awarded with distinction.
 
 ---
 
-City University London, UK
+*City University* London, UK
 
-University Certificate in Ancient Egyptian Hieroglyphics <br>
+University certificate in Ancient Egyptian Hieroglyphics <br>
 Sept. '96 - March '97 <br>
 Evening course
 ---
