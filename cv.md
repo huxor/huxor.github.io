@@ -153,4 +153,6 @@ English (mother tongue), German (limited working proficiency), French (O'level [
 
 ---
 ## Conference Presentations
+city | country | month |  year | conference | title of presentation | paper/poster
+--- | --- | --- |  --- | --- | --- | ---
 
