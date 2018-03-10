@@ -151,3 +151,25 @@ Chairing meetings, organising conference sessions, journal editing and review.
 Natural languages: <br>
 English (mother tongue), German (limited working proficiency), French (O'level [high school certicate])
 
+---
+## Conference Presentations
+
+Leiden	Netherlands		February	2016	Globular Clusters and Galaxy Halos	GCs in the outer halo of M31	paper
+
+Munich	Germany		February	2015	Baryons at low densities: the stellar halos around galaxies	Tracing the tidal streams of the Sagittarius dwarf with long-period variable carbon stars	poster
+
+Vienna	Austria		July	2014	Why Galaxies Care About AGB Stars	Probing the Sagittarius Tidal Streams with LPV Carbon Stars	paper
+Santiago	Chile		April	2011	Dynamics of Low-Mass Stellar Systems: From Star Clusters to Dwarf Galaxies	The accretion history of the halo of M31 as probed by its globular cluster population	paper
+Llandudno	UK			2011	National Astronomy Meeting	https://www.ras.org.uk/news-and-press/217-news-2011/1954-nam-16-astronomers-find-smoking-gun-of-compact-galaxy-formation	paper
+Galsgow	UK		April	2010	National Astronomy Meeting	Evidence of Tidal Stripping of three compact elliptical (cE) galaxies discovered in SDSS DR7	paper
+Rekyjavik	Iceland		October	2010	6th Nordic Conference on Human-Computer Interaction	TilePix: an exploratory interface to astronomical image databases	paper
+Lyon	France			2010	 A Universe of dwarf galaxies	Tidal Streams in Newly Discovered Compact Elliptical (cE) Galaxies	poster
+Grenada	Spain		May	2009	Conference on Galaxies in Isolation: Exploring Nature Versus Nurture	Search for Compact Elliptical Galaxies in SDSS DR7	poster
+Birmingham	UK		April	2005	National Astronomy Meeting	https://phys.org/news/2005-04-astronomers-mysterious-star-clusters.html	paper
+Brasilia	Brasil		March	1999	2nd Space Syntax Symposium	Space Syntax and the Management of Encounter in CMC	paper
+Lancaster 	UK		May	1998	Lancaster International Workshop on Engineering Design		paper (with P. Rodgers)
+Lisbon	Portugal		June	1998	5th International Conference on Artificial Intelligence in Design	Knowledge systems as navigation aids to online content and users	paper (with P. Rodgers)
+Stuttgart	Germany		June	1998	Virtual Environments 1998	Grounding & Awareness Management: Two Architectural Principles for Collaborative Virtual Worlds	paper
+Stuttgart	Germany		June	1998			paper
+London	UK		August	1997	Information Visualization, 1997	The role of virtual world design in collaborative working	paper
+Leicester	UK		July	1996	3rd UK VR-SIG Conference	Virtual Realities, Media Landscapes, and Real Cityscapes	paper
