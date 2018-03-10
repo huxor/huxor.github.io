@@ -57,7 +57,7 @@ Research  into dwarf galaxies of the Fornax Cluster. Supervision of final year u
 
 ---
 
-*Middlesex University* London, UK
+*Middlesex University* London, UK 
 
 Senior Research Fellow <br>
 Nov '94 - Sep '02 <br>
@@ -149,5 +149,5 @@ Chairing meetings, organising conference sessions, journal editing and review.
 ---
 
 Natural languages: <br>
-English (mother tongue), German (limited working proficiency)
+English (mother tongue), German (limited working proficiency), French (O'level [high school certicate])
 
