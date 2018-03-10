@@ -169,6 +169,5 @@ Brasilia|Brasil|March|1999|2nd Space Syntax Symposium|Space Syntax and the Manag
 Lancaster|UK|May|1998|Lancaster International Workshop on Engineering Design| Supporting `intelligent' navigation of design knowledge. |paper (with P. Rodgers)
 Lisbon|Portugal|June|1998|5th International Conference on Artificial Intelligence in Design|Knowledge systems as navigation aids to online content and users|paper (with P. Rodgers)
 Stuttgart|Germany|June|1998|Virtual Environments '98|Grounding & Awareness Management: Two Architectural Principles for Collaborative Virtual Worlds|paper
-Stuttgart| Germany| June|1998	n/a |	n/a	| paper
 London|UK | August | 1997 | Information Visualization '97 | The role of virtual world design in collaborative working	| paper
 Leicester |	UK | July	| 1996 |	3rd UK VR-SIG Conference	| Virtual Realities, Media Landscapes, and Real Cityscapes	| paper
