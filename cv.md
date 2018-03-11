@@ -160,7 +160,7 @@ Munich|Germany|February|2015|Baryons at low densities: the stellar halos around 
 Vienna|Austria|July|2014|Why Galaxies Care About AGB Stars|Probing the Sagittarius Tidal Streams with LPV Carbon Stars|paper
 Santiago|Chile|April|2011|Dynamics of Low-Mass Stellar Systems: From Star Clusters to Dwarf Galaxies|The accretion history of the halo of M31 as probed by its globular cluster population|paper
 Llandudno|UK| April | 2011|National Astronomy Meeting|https://www.ras.org.uk/news-and-press/217-news-2011/1954-nam-16-astronomers-find-smoking-gun-of-compact-galaxy-formation|paper
-Galsgow|UK|April|2010|National Astronomy Meeting|Evidence of Tidal Stripping of three compact elliptical (cE) galaxies discovered in SDSS DR7|paper
+Glasgow |UK|April|2010|National Astronomy Meeting|Evidence of Tidal Stripping of three compact elliptical (cE) galaxies discovered in SDSS DR7|paper
 Rekyjavik|Iceland|October|2010|6th Nordic Conference on Human-Computer Interaction|TilePix: an exploratory interface to astronomical image databases|paper
 Lyon|France|June | 2010|A Universe of dwarf galaxies|Tidal Streams in Newly Discovered Compact Elliptical (cE) Galaxies|poster
 Grenada|Spain|May|2009|Conference on Galaxies in Isolation: Exploring Nature Versus Nurture|Search for Compact Elliptical Galaxies in SDSS DR7|poster
