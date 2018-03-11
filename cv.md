@@ -174,5 +174,6 @@ Leicester |	UK | July	| 1996 |	3rd UK VR-SIG Conference	| Virtual Realities, Med
 
 ## Courses
 December 2001, one week MODEST-2 (Modelling Dense Stellar Systems) workshop, on N-body simulation, at the University of Amsterdam
+---
 December 2017, one week Knowledge Transfer Partnership (KTP) residential course on project management and team leadership
 
