@@ -183,6 +183,6 @@ December 2001, one week MODEST-2 (Modelling Dense Stellar Systems) workshop, on 
 
 ---
 
-Sept 1996 -March 1997, completed University Certificate (evening classes) in *Ancient Egyptian Hieroglphics*
+Sept 1996 - March 1997, completed University Certificate (evening classes) in *Ancient Egyptian Hieroglphics*
 
 
