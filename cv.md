@@ -85,6 +85,7 @@ Research into explanation facilities for knowledge-based systems. As well as a t
 
 *University of Bristol* Bristol, UK
 
+
 MSc in Data Mining, Machine Learning & High Performance Computing <br>
 Oct '15 - Sept'17 <br>
 Including modules on: machine learning, autonomous systems, computational neuroscience, logic programming, computer vision, statistical learning, uncertainty modelling, computational genomics, applied data science, web technologies.
