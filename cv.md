@@ -1,6 +1,15 @@
 # Curriculum Vitae | Dr Avon Huxor
 
 ## Employment
+
+*Bristol University*, Bristol, UK
+
+Research Associate <br>
+March '18 - present <br>
+Analysis of data, and development of tools, for the LeDeR project, investigating factors contributing to early death amongst those with learning disabilities.
+
+---
+
 *Cardiff Metropolitan  University*, Cardiff, UK
 
 KTP Associate <br>
