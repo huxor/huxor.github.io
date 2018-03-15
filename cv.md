@@ -4,7 +4,7 @@
 *Cardiff Metropolitan  University*, Cardiff, UK
 
 KTP Associate <br>
-Nov '17 - present <br>
+Nov '17 - Feb '18 <br>
 Working with Coup Media Ltd on Data Science and Machine Learning for social media data. In this role I have, in particular been dealing with natural language and hence have gained experience in NLP techniques and tools (e.g. nltk, gensim).
 
 ---
@@ -183,6 +183,6 @@ December 2001, one week MODEST-2 (Modelling Dense Stellar Systems) workshop, on 
 
 ---
 
-Sept 1996 - March 1997, completed University Certificate (evening classes) in *Ancient Egyptian Hieroglphics*
+Sept 1996 - March 1997, completed University Certificate (evening classes) in *Ancient Egyptian Hieroglphics*, City University
 
 
