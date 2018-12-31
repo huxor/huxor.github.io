@@ -159,7 +159,7 @@ Chairing meetings, organising conference sessions, journal editing and review.
 ---
 
 Natural languages: <br>
-English (mother tongue), German (limited working proficiency), French (O'level [high school certicate])
+English (mother tongue), German (limited working proficiency), French (O'level [high school certificate])
 
 ---
 ## Conference Presentations
