@@ -1,5 +1,5 @@
 # Curriculum Vitae | Dr Avon Huxor
-[a relative link](publications.md)
+[Publications](publications.md)
 ## Employment
 
 *Bristol University*, Bristol, UK
