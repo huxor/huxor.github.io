@@ -149,7 +149,7 @@ Oct '77 - Jul '81 <br>
 ## Skills
 
 Technical specialities <br>
-LaTeX, UNIX, SQL, Git; programming in IDL, R+ knitr, and Python languages, NLP (nltk, gensim); some experience of AWS, MATLAB, OpenCV
+LaTeX, UNIX, SQL, Git; programming in IDL, R+ knitr, and Python languages, ML (scikit-learn, TensorFlow), NLP (nltk, gensim); some experience of AWS, MATLAB, OpenCV
 
 ---
 
