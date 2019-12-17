@@ -165,7 +165,7 @@ English (mother tongue), German (limited working proficiency), French (O'level [
 ## Conference Presentations
 
 city | country | month |  year | conference | title of presentation | paper/poster
-| --- | --- | --- |  --- | --- | --- | --- |
+ --- | --- | --- |  --- | --- | --- | --- 
 Leiden|Netherlands|February|2016|Globular Clusters and Galaxy Halos|GCs in the outer halo of M31 | paper
 Munich|Germany|February|2015|Baryons at low densities: the stellar halos around galaxies|Tracing the tidal streams of the Sagittarius dwarf with long-period variable carbon stars|poster
 Vienna|Austria|July|2014|Why Galaxies Care About AGB Stars|Probing the Sagittarius Tidal Streams with LPV Carbon Stars|paper
