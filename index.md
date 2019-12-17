@@ -6,7 +6,7 @@
 
 Research Associate <br>
 March '18 - present <br>
-Analysis of data, and development of tools, for the LeDeR project, investigating factors contributing to early death amongst those with learning disabilities.
+Analysis of data, and development of tools, for the LeDeR project, investigating factors contributing to early death amongst those with learning disabilities. Specifically, I am using Python-based tools for data science, NLP and machine learning applications.
 
 ---
 
