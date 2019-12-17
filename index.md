@@ -6,7 +6,7 @@
 
 Research Associate <br>
 March '18 - present <br>
-Analysis of data, and development of tools, for the LeDeR project, investigating factors contributing to early death amongst those with learning disabilities. Specifically, I am using Python-based tools for data science, NLP and machine learning applications.
+Analysis of data, and development of tools, for the LeDeR project, investigating factors contributing to early death amongst those with learning disabilities. Specifically, I am using Python-based tools for data science (e.g. pandas) , NLP (e.g. gensim, nltk) and machine learning applications (e.g. scikit-learn).
 
 ---
 
@@ -14,7 +14,7 @@ Analysis of data, and development of tools, for the LeDeR project, investigating
 
 KTP Associate <br>
 Nov '17 - Feb '18 <br>
-Working with Coup Media Ltd on Data Science and Machine Learning for social media data. In this role I have, in particular been dealing with natural language and hence have gained experience in NLP techniques and tools (e.g. nltk, gensim).
+Working with Coup Media Ltd on Data Science and Machine Learning for social media data. In this role I delt with natural language and hence  gained experience in NLP techniques and tools.
 
 ---
 *University of South Wales* Cardiff,  Wales, UK
