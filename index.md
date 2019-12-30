@@ -200,6 +200,6 @@ Sept 1996 - March 1997, completed University Certificate (evening classes) in *A
 ## Talks/Seminars
 
 city | country | month |  year | title of presentation | event
- --- | --- | --- |  --- | --- | --- | --- 
+ --- | --- | --- |  --- | --- | ---  
 Bristol|UK|March|2019|Artificial intelligence as a 'Knowledge Medium | PyData Bristol - 7th Meetup https://www.meetup.com/PyData-Bristol/events/259092029/
 
