@@ -197,9 +197,9 @@ December 2001, one week MODEST-2 (Modelling Dense Stellar Systems) workshop, on 
 Sept 1996 - March 1997, completed University Certificate (evening classes) in *Ancient Egyptian Hieroglphics*, City University
 
 ---
-## Conference Presentations
+## Talks/Seminars
 
-city | country | month |  year | conference | title of presentation | paper/poster
+city | country | month |  year | title of presentation | event
  --- | --- | --- |  --- | --- | --- | --- 
-Leiden|Netherlands|February|2016|Globular Clusters and Galaxy Halos|GCs in the outer halo of M31 | paper
+Bristol|UK|March|2019|Artificial intelligence as a 'Knowledge Medium | PyData Bristol - 7th Meetup https://www.meetup.com/PyData-Bristol/events/259092029/
 
