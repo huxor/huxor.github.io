@@ -201,5 +201,5 @@ Sept 1996 - March 1997, completed University Certificate (evening classes) in *A
 
 city | country | month |  year | title of presentation | event
  --- | --- | --- |  --- | --- | ---  
-Bristol|UK|March|2019|Artificial intelligence as a 'Knowledge Medium | PyData Bristol - 7th Meetup https://www.meetup.com/PyData-Bristol/events/259092029/
-
+Bristol|UK|March|2019|Artificial intelligence as a 'Knowledge Medium' | PyData Bristol - 7th Meetup https://www.meetup.com/PyData-Bristol/events/259092029/
+Bath|UK|September|2018| Creating a Massive Labelled Dataset of Medical Reports for Upcoming ML Applications | Bath Machine Learning Meetup https://www.meetup.com/BathML/events/254242871/
