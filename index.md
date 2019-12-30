@@ -183,6 +183,7 @@ Stuttgart|Germany|June|1998|Virtual Environments '98|Grounding & Awareness Manag
 London|UK | August | 1997 | Information Visualization '97 | The role of virtual world design in collaborative working	| paper
 Leicester |	UK | July	| 1996 |	3rd UK VR-SIG Conference	| Virtual Realities, Media Landscapes, and Real Cityscapes	| paper
 
+
 ## Short Courses
 <br>
 December 2017, one week Knowledge Transfer Partnership (KTP) residential course on project management and team leadership
@@ -195,4 +196,10 @@ December 2001, one week MODEST-2 (Modelling Dense Stellar Systems) workshop, on 
 
 Sept 1996 - March 1997, completed University Certificate (evening classes) in *Ancient Egyptian Hieroglphics*, City University
 
+---
+## Conference Presentations
+
+city | country | month |  year | conference | title of presentation | paper/poster
+ --- | --- | --- |  --- | --- | --- | --- 
+Leiden|Netherlands|February|2016|Globular Clusters and Galaxy Halos|GCs in the outer halo of M31 | paper
 
