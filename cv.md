@@ -45,7 +45,7 @@ Research into the stellar halo of the Milky Way, using long-period variable star
 
 Leverhulme Research Fellow <br>
 May '08 - Apr '11 <br>
-Research into the formation of compact galaxies. I also developed a prototype tool to support data exploration of astronomical image databases, combining the formal and informal aspects of the data. Also undertook teaching at undergraduate level, and project supervision of undergraduate and postgraduate students, and suupervision of one PhD student.
+Research into the formation of compact galaxies. I also developed a prototype tool to support data exploration of astronomical image databases, combining the formal and informal aspects of the data. Also undertook teaching at undergraduate level, and project supervision of undergraduate and postgraduate students, and supervision of one PhD student.
 
 
 ---
@@ -129,7 +129,7 @@ Evening course
 
 PhD Artificial Intelligence <br>
 Jan '90 - Apr '94 <br>
-Self-directed research into the notion that knowledge-based AI is an extension to ``writing". Prototype system implemented in SmallTalk language.
+Self-directed research into the notion that knowledge-based AI is an extension to ``writing". Prototype system implemented in the SmallTalk language.
 
 ---
 
